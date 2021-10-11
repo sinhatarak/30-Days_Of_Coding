@@ -1,4 +1,6 @@
 '''
+First day (start date: 11-Oct-2021)
+
 https://www.teclado.com/30-days-of-python/python-30-day-1-exercise-solutions
 
 #1) Print your age to the console.
