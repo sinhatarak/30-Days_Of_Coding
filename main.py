@@ -12,6 +12,6 @@ print(27 * 12, "Months in 27 Years")
 '''
 #3) Calculate and print the area of a circle with a radius of 5 units.
 
-print(3.141 ** 5)
+# print(3.141 ** 5)
 
 
